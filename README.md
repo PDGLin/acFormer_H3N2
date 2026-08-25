@@ -1,2 +1,2 @@
-# acFormer-Antigenic-Cartography-Transformer
-Code and data for the work of "Decoding antigenic evolution of influenza A/H3N2 virus by pathogen genomics and acFormer"
+# acFormer: Antigenic cartography transformer for mapping and interpreting influenza antigenic evolution
+Code and data for the work of "An Antigenic cartography transformer for mapping and interpreting influenza antigenic evolution"
